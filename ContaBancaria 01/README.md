@@ -1,4 +1,4 @@
-# ContaBanco
+# Projeto Conta Bancária
 
 Este projeto é uma aplicação simples em Java que permite aos usuários inserirem informações básicas de uma conta bancária através do terminal e exibe uma mensagem de agradecimento com os dados inseridos.
 
