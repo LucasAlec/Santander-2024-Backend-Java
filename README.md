@@ -6,4 +6,7 @@ Neste repositório serão apresentados todos os desafios de projeto desenvolvido
 
 **01 Conta Bancária**
 
-**02**
+**02 Controle de Fluxo**
+
+## Observações
+Todos os projetos estão em suas respectivas pastas.
