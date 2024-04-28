@@ -1,6 +1,6 @@
-# Desafio 02 Controle Fluxo
+# Projeto Controle de Fluxo
 
-O projeto DesafioControleFluxo é uma aplicação Java que recebe dois números inteiros como parâmetros via terminal e realiza a contagem e impressão dos números incrementados entre esses dois números. Ele também demonstra o uso de controle de fluxo com estruturas condicionais e exceções personalizadas em Java.
+O projeto Controle de Fluxo é uma aplicação Java que recebe dois números inteiros como parâmetros via terminal e realiza a contagem e impressão dos números incrementados entre esses dois números. Ele também demonstra o uso de controle de fluxo com estruturas condicionais e exceções personalizadas em Java.
 
 ## Estrutura do Projeto
 
