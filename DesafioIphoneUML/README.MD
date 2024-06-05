@@ -36,3 +36,6 @@ A classe abstrata `iPhone` implementa as interfaces `ReprodutorMusical`, `Aparel
 - `fazerChamada(String numero)`, `atenderChamada()`, `finalizarChamada()`: Implementa funcionalidades relacionadas a operações telefônicas.
 - `navegar(String url)`, `adicionarAosFavoritos(String url)`, `exibirHistorico()`: Implementa funcionalidades relacionadas à navegação na internet.
 
+### Diagrama UML
+
+![Diagrama UML](./DiagramaUML.png)
