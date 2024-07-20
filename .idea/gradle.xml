@@ -7,6 +7,10 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/IphoneComUML" />
         <option name="gradleHome" value="" />
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Projeto05" />
+        <option name="gradleHome" value="" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
