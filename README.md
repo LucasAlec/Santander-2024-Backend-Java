@@ -10,5 +10,7 @@ Neste repositório serão apresentados todos os desafios de projeto desenvolvido
 
 **03 Diagrama UML**
 
+**04 Banco Digital**
+
 ## Observações
 Todos os projetos estão em suas respectivas pastas.
